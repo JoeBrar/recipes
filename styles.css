@@ -1,0 +1,11 @@
+.mheading{
+    font-size:50px;
+    text-align: center;
+    background-color: yellow;
+}
+ul li{
+    font-size: 20px;
+}
+a{
+    color:green;
+}

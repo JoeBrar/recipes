@@ -1,0 +1,10 @@
+.mheading{
+    text-align: center;
+    background-color: brown;
+    color:white;
+}
+.normal-heading{
+    color:green;
+    text-decoration: underline;
+    background-color: #e5ff0044;
+}
